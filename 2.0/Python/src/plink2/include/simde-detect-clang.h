@@ -1,1 +1,0 @@
-../../../../simde/simde-detect-clang.h
